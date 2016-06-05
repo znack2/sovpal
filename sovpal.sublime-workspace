@@ -1,0 +1,768 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reques",
+				"requestData"
+			],
+			[
+				"array_fil",
+				"array_filter"
+			],
+			[
+				"Slug",
+				"SlugException"
+			],
+			[
+				"E",
+				"Exception"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "tests/unit/GroupTest.php",
+			"settings":
+			{
+				"buffer_size": 774,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tests/GroupTest.php",
+			"settings":
+			{
+				"buffer_size": 5495,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 500.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"mc",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: Up"
+			],
+			[
+				"comment",
+				"Snippet: HTML - Comment"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"php",
+				"PHPCompanion:Goto Definition Scope"
+			],
+			[
+				"git",
+				"Git: Show Current File"
+			],
+			[
+				"emmet",
+				"Emmet: Merge Lines"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"@",
+				"Snippet: Blade @lang"
+			],
+			[
+				"key",
+				"KeybindingHelper: Toggle show commands"
+			],
+			[
+				"css",
+				"Snippet: CSS - text-align: center;"
+			],
+			[
+				"snippet",
+				"Snippet: bs3-table-responsive"
+			],
+			[
+				"html",
+				"Snippet: HTML - Image"
+			],
+			[
+				"bs3",
+				"Snippet: bs3-form-horizontal"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pck",
+				"Preferences: Browse Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Class"
+			]
+		],
+		"width": 1186.0
+	},
+	"console":
+	{
+		"height": 188.0,
+		"history":
+		[
+			"view.scope_name(view.sel()[0].begin())",
+			"view.red(view.sel()[0].begin())",
+			"view.scope_name(view.sel()[0].begin())",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Znack/4work/www/sovpal/app/Http",
+		"/C/Users/Znack/4work/www/sovpal/app/Http/Controllers",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/_partials",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Filters",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Group",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Traits",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/User",
+		"/C/Users/Znack/4work/www/sovpal/app/Services",
+		"/C/Users/Znack/4work/www/sovpal/app/Services/Mailer",
+		"/C/Users/Znack/4work/www/sovpal/tests",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Visit",
+		"/C/Users/Znack/4work/www/sovpal/resources/views/layout"
+	],
+	"file_history":
+	[
+		"/C/Users/Znack/4work/www/sovpal/app/Http/Controllers/UserController.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Http/Controllers/GroupController.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Http/Controllers/ItemController.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Http/Controllers/RoomController.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Http/Controllers/Controller.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Http/Controllers/ActionController.php",
+		"/C/Users/Znack/4work/www/sovpal/resources/views/emails/welcome.blade.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/GroupTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/acceptance/AuthController.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/acceptance/GroupController.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/acceptance/UserController.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/acceptance/PasswordController.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/acceptance/ItemController.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/acceptance/ActionController.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Group/_new_Repo.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/acceptance/RoomController.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Traits/IncrementTrait.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/ItemTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/UserTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/RoomTest.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Presenters/GroupPresenterTrait.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Filters/FilterTrait.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Filters/AbstractRepo.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Group/GroupRepo.php",
+		"/C/Users/Znack/4work/www/sovpal/phpunit.xml",
+		"/C/Users/Znack/4work/www/sovpal/config/database.php",
+		"/C/Users/Znack/4work/www/sovpal/.env",
+		"/C/Users/Znack/4work/www/sovpal/tests/TestCase.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/SearchTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Auth/SignUpTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/LoginTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Visit/ProfileTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Visit/PagesTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Visit/LangTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Visit/IndexTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Auth/AuthTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/VisitTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Auth/PagesTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/AuthTest.php",
+		"/C/Users/Znack/Desktop/basis/References/BookingControllerTest.php",
+		"/C/Users/Znack/Desktop/basis/References/LanguageTest.php",
+		"/C/Users/Znack/Desktop/basis/References/WelcomeControllerTest.php",
+		"/C/Users/Znack/Desktop/basis/References/ProfileSettingTest.php",
+		"/C/Users/Znack/Desktop/basis/services/FlashTest.php",
+		"/C/Users/Znack/Desktop/basis/References/ItemTest.php",
+		"/C/Users/Znack/Desktop/basis/References/UserTest.php",
+		"/C/Users/Znack/Desktop/basis/References/LandingTest.php",
+		"/C/Users/Znack/Desktop/basis/References/AuthTest.php",
+		"/C/Users/Znack/Desktop/helpers/CreateRole.php",
+		"/C/Users/Znack/Desktop/helpers/CreateUser.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/tests/CascadeSoftDeletesIntegrationTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/unit/models/RoleTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/unit/models/PermissionTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/unit/models/UserTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/unit/migration/MigrationTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/unit/Http/ViewComposers/AuthComposerUnitTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/unit/NewRegisteredUserUnitTest.php",
+		"/C/Users/Znack/Desktop/basis/services/MailTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/unit/TransMailTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/unit/SeedingUnitTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/tests/Entities/PostWithStringCascade.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/tests/Entities/InvalidRelationshipPost.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/tests/Entities/PostWithMissingRelationshipMethod.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/tests/Entities/NonSoftDeletingPost.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/tests/Entities/Post.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/tests/Entities/Comment.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/Base/ViewTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/helpers/ArrangeFixture.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/helpers/CreateUser.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/helpers/CreateContact.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/acceptance/UserRegistrationProcessTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/ItemTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/acceptance/ManagerTest.php",
+		"/C/Users/Znack/Desktop/TEST/all_tests/acceptance/scenarios/hairdresser/HairdresserScenarioTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Auth/UserLoginTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Auth/PasswordResetTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Auth/UserRegisterTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Auth/UserWizardControllerTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/Guest/LanguageTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/RoomTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/UserTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/unit/GroupTest.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/User/UserRepo.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/User/UserInterface.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Item/ItemRepo.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Room/RoomRepo.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Filters/AbstractInterface.php",
+		"/C/Users/Znack/Desktop/basis/References/Auth/UserContactControllerTest.php",
+		"/C/Users/Znack/Desktop/basis/References/Auth/UserRegisterTest.php",
+		"/C/Users/Znack/Desktop/basis/References/Auth/PasswordResetTest.php",
+		"/C/Users/Znack/Desktop/basis/References/Auth/UserWizardControllerTest.php",
+		"/C/Users/Znack/Desktop/basis/References/Auth/UserBusinessControllerTest.php",
+		"/C/Users/Znack/Desktop/basis/References/Auth/UserLoginTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/LandingTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/ContactPageTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/PageTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/LanguageTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/LoginTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/Controllers/AuthController.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/Controllers/LanguageControllerTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/Controllers/BookingControllerTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/Controllers/JsonadmControllerTest.php",
+		"/C/Users/Znack/4work/www/sovpal/app/Models/Group/GroupInterface.php",
+		"/C/Users/Znack/4work/www/sovpal/composer.json",
+		"/C/Users/Znack/4work/www/sovpal/resources/views/layout/forms/ajax/empty_profile.blade.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/View/AuthTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/View/UserTest.php",
+		"/C/Users/Znack/Desktop/TEST/tests/next_test/UserTest.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/services/FlashTest.php",
+		"/C/Users/Znack/Desktop/TEST/tests/next_test/services/FlashTest.php",
+		"/C/Users/Znack/Desktop/TEST/tests/next_test/ItemTest.php",
+		"/C/Users/Znack/Desktop/TEST/tests/next_test/services/MailTest.php",
+		"/C/Users/Znack/Desktop/TEST/tests/AuthTest.php",
+		"/C/Users/Znack/Desktop/TEST/tests/LandingTest.php",
+		"/C/Users/Znack/Desktop/TEST/tests/ProfileSettingTest.php",
+		"/C/Users/Znack/Desktop/TEST/tests/TestCase.php",
+		"/C/Users/Znack/4work/www/sovpal/tests/View/ItemTest.php",
+		"/C/Users/Znack/Desktop/TEST/IndexTest.php",
+		"/C/Users/Znack/Desktop/TEST/itemTest.php",
+		"/C/Users/Znack/Desktop/Super_Test_Controllers/Manager/ManagerHumanresourceControllerTest.php",
+		"/C/Users/Znack/Desktop/Super_Test_Controllers/Manager/ManagerBusinessAgendaControllerTest.php",
+		"/C/Users/Znack/Desktop/Super_Test_Controllers/Manager/ManagerSearchControllerTest.php",
+		"/C/Users/Znack/Desktop/Super_Test_Controllers/Manager/ManagerBusinessPreferencesControllerTest.php",
+		"/C/Users/Znack/Desktop/Super_Test_Controllers/Manager/ManagerBusinessNotificationsControllerTest.php",
+		"/C/Users/Znack/Desktop/Super_Test_Controllers/Manager/ManagerBusinessServiceTypeControllerTest.php",
+		"/C/Users/Znack/Desktop/Super_Test_Controllers/Guest/GuestBusinessControllerTest.php",
+		"/C/Users/Znack/Desktop/Super_Test_Controllers/Root/RootControllerTest.php",
+		"/C/Users/Znack/Desktop/Super_Test_Controllers/User/UserAgendaControllerTest.php"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Group",
+			"();\n",
+			";\n",
+			"item",
+			"group",
+			"Group",
+			"group",
+			"Group",
+			"group",
+			"getPopular",
+			"group",
+			"();\n",
+			",",
+			");\n",
+			"User",
+			"item",
+			"Item",
+			"item",
+			"Item",
+			"item",
+			"item1",
+			"Iten",
+			"Group",
+			"public",
+			"protected",
+			"public",
+			"assertEqual",
+			"$this",
+			");\n",
+			"$this",
+			" $this",
+			"$this",
+			" $this",
+			"$this",
+			" $this",
+			"$this",
+			"']);\n",
+			");\n",
+			"Filters",
+			"count",
+			"in_array($data['type'],['profi','owner'])) ",
+			"group",
+			"item",
+			"Item",
+			"item",
+			"; }",
+			"; } ",
+			"user",
+			"User",
+			"user",
+			"item",
+			": null;",
+			"; }",
+			"request->input",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			"type",
+			"room_tag",
+			"?:",
+			"request",
+			"profi",
+			" \n",
+			"\\Session::get('provider') ? ",
+			"activated_User",
+			"user",
+			"User",
+			"user",
+			"User",
+			"user",
+			" item",
+			"item",
+			"Room",
+			"room",
+			"Room",
+			"room",
+			"Room",
+			"room",
+			"Room",
+			"room",
+			"request->has",
+			"this->request",
+			"$data['type'] == ['profi','owner']) ? ",
+			"'profi'",
+			"this->",
+			"user",
+			"request->has",
+			"apply",
+			";\n",
+			"$request",
+			"request",
+			"query",
+			"Builder",
+			"builder",
+			"Builder",
+			"builder",
+			"request",
+			"Request",
+			"(){}\n",
+			"},\n",
+			"Session::get",
+			"address_id",
+			");\n",
+			"requestData",
+			"$key = if(",
+			"$key = ",
+			"requa",
+			"Data",
+			"data",
+			"$data",
+			" $data"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "tests/unit/GroupTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 774,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								638,
+								638
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tests/GroupTest.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1470,
+								1470
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 128.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 94.0
+	},
+	"pinned_build_system": "Packages/User/builds/vagrantUp.sublime-build",
+	"project": "sovpal.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"890.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 302.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
